@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
----
+====
 
 Conference papers
 ====
@@ -73,6 +73,7 @@ A. Sarker, **C. Qiu**, H. Shen, A. Gily, J. Taibery, M. Chowdhuryz, J. Martinx, 
 
 Journal papers
 ====
+
 **C. Qiu** and H. Shen, Dynamic Demand Prediction and Allocation in Cloud Service Brokerage, IEEE Transactions on Cloud Computing (**TCC**), 2019.
 
 **C. Qiu** and H. Shen, Towards Green Wireless Networking: Fading-Resistant Time Constraint Broadcasts Using Cooperative Communication, IEEE Transactions on Network Science and Engineering (**TNSE**), 2018.
