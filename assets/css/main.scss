@@ -1,6 +1,5 @@
 ---
 ---
-@import "minimal-mistakes/skins/default"; // skin
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -9,6 +8,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
+// @import "minimal-mistakes/skins/default"; // skin
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
