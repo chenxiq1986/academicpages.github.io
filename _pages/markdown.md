@@ -6,8 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
-
 Professional Memberships
 ---
 IEEE, Member
