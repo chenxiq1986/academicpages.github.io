@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "publications"
 permalink: /publications/
 author_profile: true
 ====
 
 Conference papers
-====
-
+---
 
 2019
 ---
@@ -72,7 +71,7 @@ A. Sarker, **C. Qiu**, H. Shen, A. Gily, J. Taibery, M. Chowdhuryz, J. Martinx, 
 
 
 Journal papers
-====
+---
 
 **C. Qiu** and H. Shen, Dynamic Demand Prediction and Allocation in Cloud Service Brokerage, IEEE Transactions on Cloud Computing (**TCC**), 2019.
 
