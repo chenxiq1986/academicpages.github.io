@@ -1,4 +1,9 @@
 
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+
 2019
 =============
 
