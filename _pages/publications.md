@@ -26,7 +26,7 @@ Conference papers
 
 **C. Qiu**, A. C. Squicciarini, C. Griffin, and P. Umar, Combating Behavioral Deviance via User Behavior Control, in Proc. of The International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) 2018.
 
-L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. Xu, Employing Opportunistic Charging for Electric Taxicabs to Reduce Idle Time, in Proc. of The ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) 2018.
+L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. Xu, Employing Opportunistic Charging for Electric Taxicabs to Reduce Idle Time, in Proc. of The ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp**) 2018.
 
 2017
 ---
@@ -36,9 +36,9 @@ L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. 
 
 **C. Qiu**, A. C. Squicciarini, S. M. Rajtmajer, and J. Caverlee, Dynamic Contract Design for Heterogenous Workers in Crowdsourcing for Quality Control, in Proc. of The IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2017 [Applications and Experiences Track].
 
-A. Sarker, **C. Qiu**, and H. Shen, Quick and Autonomous Platoon Maintenance in Vehicle Dynamics For Distributed Vehicle Platoon Networks, in Proc. of ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI) 2017 [short paper].
+A. Sarker, **C. Qiu**, and H. Shen, Quick and Autonomous Platoon Maintenance in Vehicle Dynamics For Distributed Vehicle Platoon Networks, in Proc. of The ACM/IEEE International Conference on Internet-of-Things Design and Implementation (**IoTDI**) 2017 [short paper].
 
-L. Yan, H. Shen, J. Zhao, C. Xu, F. Luo, and **C. Qiu**, CatCharger: Deploying Wireless Charging Lanes in a Metropolitan Road Network through Categorization and Clustering of Vehicle Traffic, in Proc. of IEEE International Conference on Computer Communications (**INFOCOM**) 2017.
+L. Yan, H. Shen, J. Zhao, C. Xu, F. Luo, and **C. Qiu**, CatCharger: Deploying Wireless Charging Lanes in a Metropolitan Road Network through Categorization and Clustering of Vehicle Traffic, in Proc. of The IEEE International Conference on Computer Communications (**INFOCOM**) 2017.
 
 2016
 ---
