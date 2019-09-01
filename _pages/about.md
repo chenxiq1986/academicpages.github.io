@@ -14,7 +14,7 @@ I received my Ph.D. degree in [the Holcombe Department of Electrical and Compute
 
 Research interests
 ======
-My research interests include the modeling and the algorithm design underpinnings of various domains, including **data privacy**, **the Internet of Things**, and **crowdsourcing/crowdsensing systems**.
+My research interests include the modeling and the algorithm design underpinnings of various domains, with the focus on **data privacy issues in the Internet of Things** and **crowdsourcing/crowdsensing systems**.
 
 News
 ======
