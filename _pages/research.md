@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Research group
----
+Group members
+===
 ## Undergraduate students
 
 Ce Pang, (2019 Spring -)
