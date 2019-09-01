@@ -69,3 +69,32 @@ A. Sarker, **C. Qiu**, H. Shen, A. Gily, J. Taibery, M. Chowdhuryz, J. Martinx, 
 **C. Qiu**, L. Yu, H. Shen and S. Soltani, Low-Latency Multi-fl ow Broadcasts in Fading Wireless Networks, in Proc. of The IEEE International Conference on Computer Communications (**INFOCOM**) 2013 [short paper].
 
 **C. Qiu** and H. Shen, A Delaunay-based Location-free Mechanism for Full Coverage in Wireless Sensor Networks, in Proc. of The IEEE International Conference on Parallel Processing (**ICPP**) 2012.
+
+
+Journal papers
+====
+**C. Qiu** and H. Shen, Dynamic Demand Prediction and Allocation in Cloud Service Brokerage, IEEE Transactions on Cloud Computing (**TCC**), 2019.
+
+**C. Qiu** and H. Shen, Towards Green Wireless Networking: Fading-Resistant Time Constraint Broadcasts Using Cooperative Communication, IEEE Transactions on Network Science and Engineering (**TNSE**), 2018.
+
+**C. Qiu**, H. Shen, and L. Chen, Towards Green Cloud Computing: Demand Allocation and Pricing Policies for Cloud Service Brokerage, IEEE transactions on Big Data (**TBD**), 2018.
+
+**C. Qiu**, H. Shen, and K. Chen, An Energy-Efficient and Distributed Cooperation Mechanism for k-Coverage Hole Detection and Healing in WSNs, IEEE transactions on Mobile Computing (**TMC**), 2017.
+
+C. Dey, L. Yan, X. Wang, Y. Wang, H. Shen, M. Chowdhury, L. Yu, **C. Qiu**, and V. Soundararaj, A Review of Communication, Driver Characteristics and Controls Aspects of Cooperative Adaptive Cruise Control (CACC), IEEE transactions on Intelligent Transportation Systems (**TITS**), 2016.
+
+**C. Qiu**, L. Yu, S. Soltani, Low-Latency Multi-flow Cooperative Broadcast in Fading Wireless Networks, IEEE Transactions on Computers (**TC**), to appear, Accepted on June. 18, 2015.
+
+**C. Qiu**, H. Shen, S. Soltani, K. Sapra, H. Jiang and J. Hallstrom, CEDAR: A Low-latency and Distributed Strategy for Packet Recovery in Wireless Network, IEEE/ACM Transactions on Networking (**ToN**), to appear, accepted on June 18, 2014.
+
+H. Shen, Z. Li, **C. Qiu**, A Distributed Three-hop Routing Protocol to Increase the Capacity of Hybrid Wireless Networks, IEEE Transactions on Mobile Computing (**TMC**), to appear, accepted on December 18, 2014
+
+**C. Qiu** and H. Shen, A Delaunay-based Coordinate-free Mechanism for Full Coverage in Wireless Sensor Networks, IEEE Transactions on Parallel and Distributed Systems (**TPDS**), to appear, accepted on April 28, 2013
+
+H. Shen, Z. Li, L. Yu and **C. Qiu**, Efficient Data Collection for Large-Scale Mobile Monitoring Applications, IEEE Transactions on Parallel and Distributed Systems (**TPDS**), to appear, accepted on April 28, 2013.
+Posters
+
+
+
+
+
