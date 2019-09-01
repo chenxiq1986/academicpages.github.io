@@ -92,7 +92,6 @@ H. Shen, Z. Li, **C. Qiu**, A Distributed Three-hop Routing Protocol to Increase
 **C. Qiu** and H. Shen, A Delaunay-based Coordinate-free Mechanism for Full Coverage in Wireless Sensor Networks, IEEE Transactions on Parallel and Distributed Systems (**TPDS**), to appear, accepted on April 28, 2013
 
 H. Shen, Z. Li, L. Yu and **C. Qiu**, Efficient Data Collection for Large-Scale Mobile Monitoring Applications, IEEE Transactions on Parallel and Distributed Systems (**TPDS**), to appear, accepted on April 28, 2013.
-Posters
 
 
 
