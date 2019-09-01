@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor in the Department of Computer Science with joint appointment in the Department of Electrical and Computer Engineering at Rowan University. Before this, I was a Postdoctoral Scholar in the the College of Information Sciences and Technology at Pennsylvania State University from January 2016 to August 2018.
+I am currently a tenure-track assistant professor in the Department of Computer Science with joint appointment in the Department of Electrical and Computer Engineering at Rowan University. Before joining Rowan, I worked as a Postdoctoral Scholar in the College of Information Sciences and Technology at Pennsylvania State University from January 2016 to August 2018.
 
 I received my Ph.D. degree in the Holcombe Department of Electrical and Computer Engineering at Clemson University in 2015 and my B.Engr. degree in Telecommunication Engineering from Xidian University in China in 2009.
 
-A data-driven personal website
+Research interests
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
