@@ -14,25 +14,15 @@ I received my Ph.D. degree in [the Holcombe Department of Electrical and Compute
 
 Research interests
 ======
-My research interests include the modeling and the algorithm design underpinnings of various domains, including data privacy, the Internet of Things, and **crowdsourcing/crowdsensing systems**.
-
-<font color="red">Status: **Not yet implemented**</font>
+My research interests include the modeling and the algorithm design underpinnings of various domains, including **data privacy**, **the Internet of Things**, and **crowdsourcing/crowdsensing systems**.
 
 News
 ======
 
-[Aug 2019] Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" has been accepted by The ACM International Conference on Information and Knowledge Management (CIKM) 2019!
+**[Aug 2019]** Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" has been accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2019!
 
-[Apr 2019] Our paper "Dynamic Demand Prediction and Allocation in Cloud Service Brokerage" has been accepted by Transactions on Cloud Computing (TCC)!
+**[Apr 2019]** Our paper "Dynamic Demand Prediction and Allocation in Cloud Service Brokerage" has been accepted by Transactions on Cloud Computing (**TCC**)!
 
-[Mar 2019] Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by The IEEE International Conference on Distributed Computing Systems (ICDCS) 2019!
+**[Mar 2019]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by The IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2019!
 
-[Jan 2019] Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019!
-
-[Apr 2018] Our paper "Towards Green Wireless Networking: Fading-Resistant Time Constraint Broadcasts Using Cooperative Communication" has been accepted by IEEE Transactions on Network Science and Engineering (TNSE) 2018!
-
-[Mar 2018] Our paper "Towards Green Cloud Computing: Demand Allocation and Pricing Policies for Cloud Service Brokerage" has been accepted by IEEE Transactions on Big Data (TBD) 2018!
-
-[Jan 2018] Our paper "CrowdEval: A Cost-Efficient Strategy to Evaluate Crowdsourced Workers' Reliability" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018!
-
-[Jan 2018] Our paper "Combating Behavioral Deviance via User Behavior Control" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018!
+**[Jan 2019]** Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) 2019!
