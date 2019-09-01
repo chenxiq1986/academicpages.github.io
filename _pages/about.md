@@ -19,11 +19,11 @@ My research interests include the modeling and the algorithm design underpinning
 News
 ======
 
-[Aug 2019] Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" has been accepted by The ACM International Conference on Information and Knowledge Management ([CIKM])!
+[Aug 2019] Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" has been accepted by The ACM International Conference on Information and Knowledge Management (CIKM) 2019!
 
 [Apr 2019] Our paper "Dynamic Demand Prediction and Allocation in Cloud Service Brokerage" has been accepted by Transactions on Cloud Computing (TCC)!
 
-[Mar 2019] Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by The IEEE International Conference on Distributed Computing Systems (ICDCS)!
+[Mar 2019] Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by The IEEE International Conference on Distributed Computing Systems (ICDCS) 2019!
 
 [Jan 2019] Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019!
 
