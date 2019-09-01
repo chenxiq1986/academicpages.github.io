@@ -19,12 +19,20 @@ My research interests include the modeling and the algorithm design underpinning
 News
 ======
 
-[Jan 2019] Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" has been accepted at International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019!
+[Aug 2019] Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" has been accepted by The ACM International Conference on Information and Knowledge Management (CIKM)!
 
-[Apr 2018] Our paper "Towards Green Wireless Networking: Fading-Resistant Time Constraint Broadcasts Using Cooperative Communication" has been accepted at IEEE Transactions on Network Science and Engineering (TNSE) 2018!
+[Apr 2019] Our paper "Dynamic Demand Prediction and Allocation in Cloud Service Brokerage" has been accepted by Transactions on Cloud Computing (TCC)!
 
-[Mar 2018] Our paper "Towards Green Cloud Computing: Demand Allocation and Pricing Policies for Cloud Service Brokerage" has been accepted at IEEE Transactions on Big Data (TBD) 2018!
+[Mar 2019] Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by The IEEE International Conference on Distributed Computing Systems (ICDCS)!
 
-[Jan 2018] Our paper "CrowdEval: A Cost-Efficient Strategy to Evaluate Crowdsourced Workers' Reliability" has been accepted at International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018!
+[Jan 2019] Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019!
 
-[Jan 2018] Our paper "Combating Behavioral Deviance via User Behavior Control" has been accepted at International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018!
+[Jan 2019] Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019!
+
+[Apr 2018] Our paper "Towards Green Wireless Networking: Fading-Resistant Time Constraint Broadcasts Using Cooperative Communication" has been accepted by IEEE Transactions on Network Science and Engineering (TNSE) 2018!
+
+[Mar 2018] Our paper "Towards Green Cloud Computing: Demand Allocation and Pricing Policies for Cloud Service Brokerage" has been accepted by IEEE Transactions on Big Data (TBD) 2018!
+
+[Jan 2018] Our paper "CrowdEval: A Cost-Efficient Strategy to Evaluate Crowdsourced Workers' Reliability" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018!
+
+[Jan 2018] Our paper "Combating Behavioral Deviance via User Behavior Control" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018!
