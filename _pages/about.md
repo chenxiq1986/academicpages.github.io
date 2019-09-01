@@ -14,7 +14,7 @@ I received my Ph.D. degree in [the Holcombe Department of Electrical and Compute
 
 Research interests
 ======
-My research interests span the areas of **Data Privacy**, **The Internet of Things （IoT）** and **Crowdsourcing/Crowdsensing Systems**. My research results have been published in highly-competitive conferences and journals (e.g., INFOCOM, AAMAS, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)).
+My research interests span the areas of **Data Privacy**, **The Internet of Things (IoT)** and **Crowdsourcing/Crowdsensing Systems**. My research results have been published in highly-competitive conferences and journals (e.g., INFOCOM, AAMAS, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)).
 
 News
 ======
