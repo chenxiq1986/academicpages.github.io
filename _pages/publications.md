@@ -8,7 +8,7 @@ author_profile: true
 Conference papers
 ---
 
-## 2019
+**2019**
 
 **C. Qiu**, A. C. Squicciarini and S. M. Rajtmajer, Rating Mechanisms for Sustainability of Crowdsourcing Platforms, in Proc. of The ACM International Conference on Information and Knowledge Management (**CIKM**) 2019 [**acceptance rate: 19.4%**].
 
@@ -16,7 +16,7 @@ Conference papers
 
 **C. Qiu**, A. C. Squicciarini, and B. Hanrahan, Incentivizing Distributive Fairness for Crowdsourcing Workers, in Proc. of The International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) 2019.
 
-## 2018
+**2018**
 
 **C. Qiu** and H. Shen, Cloud-based Collision-Aware Energy-Minimization Vehicle Velocity Optimization, in Proc. of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems (**MASS**) 2018.
 
@@ -26,7 +26,7 @@ Conference papers
 
 L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. Xu, Employing Opportunistic Charging for Electric Taxicabs to Reduce Idle Time, in Proc. of The ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp**) 2018.
 
-## 2017
+**2017**
 
 **C. Qiu**, and H. Shen, Fading-Resistant Link Scheduling in Wireless Networks, in Proc. of The IEEE International Conference on Parallel Processing (**ICPP**) 2017.
 
@@ -38,7 +38,7 @@ A. Sarker, **C. Qiu**, and H. Shen, Quick and Autonomous Platoon Maintenance in 
 
 L. Yan, H. Shen, J. Zhao, C. Xu, F. Luo, and **C. Qiu**, CatCharger: Deploying Wireless Charging Lanes in a Metropolitan Road Network through Categorization and Clustering of Vehicle Traffic, in Proc. of The IEEE International Conference on Computer Communications (**INFOCOM**) 2017.
 
-## 2016
+**2016**
 
 **C. Qiu**, H. Shen, A. Sarker, V. Soundararaj, M. Devine, and E. Ford, Towards Green Transportation: Fast Vehicle Velocity Optimization for Fuel Efficiency, in Proc. of The IEEE International Conference on Cloud Computing Technology and Science (**CloudCom**) 2016 [**Best paper award**].
 
@@ -52,7 +52,7 @@ A. Sarker, **C. Qiu**, H. Shen, A. Gily, J. Taibery, M. Chowdhuryz, J. Martinx, 
 
 **C. Qiu**, H. Shen and L. Chen, Probabilistic Demand Allocation for Cloud Service Brokerage, in Proc. of The IEEE International Conference on Computer Communications (**INFOCOM**) 2016 [**acceptance rate: 18.25%**].
 
-## 2015 and earlier
+**2015 and earlier**
 
 **C. Qiu**, H. Shen and L. Chen, Towards Green Cloud Computing: Demand Allocation and Pricing Policies for Cloud Service Brokerage, in Proc. of The IEEE International Conference on Big Data (**BigData**), 2015 [**acceptance rate: 17%**].
 
