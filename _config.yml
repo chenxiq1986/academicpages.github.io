@@ -14,7 +14,7 @@ theme: jekyll-theme-midnight
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chenxi Qiu / Assistant Professor"
+title                    : "Chenxi Qiu"
 title_separator          : "-"
 name                     : &name "Chenxi Qiu"
 description              : &description "personal description"
