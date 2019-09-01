@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a tenure-track assistant professor in [the Department of Computer Science](https://academics.rowan.edu/csm/departments/cs/index.html) with joint appointment in [the Department of Electrical and Computer Engineering](https://academics.rowan.edu/engineering/programs/electricalcomputer/index.html) at [Rowan University](https://www.rowan.edu/home/). Before joining Rowan, I worked as a Postdoctoral Scholar in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [Pennsylvania State University](http://www.psu.edu/) from January 2016 to August 2018.
+I am currently a tenure-track assistant professor in [The Department of Computer Science](https://academics.rowan.edu/csm/departments/cs/index.html) with joint appointment in [The Department of Electrical and Computer Engineering](https://academics.rowan.edu/engineering/programs/electricalcomputer/index.html) at [Rowan University](https://www.rowan.edu/home/). Before joining Rowan, I worked as a Postdoctoral Scholar in [The College of Information Sciences and Technology](https://ist.psu.edu/) at [Pennsylvania State University](http://www.psu.edu/) from January 2016 to August 2018.
 
-I received my Ph.D. degree in [the Holcombe Department of Electrical and Computer Engineering](http://www.clemson.edu/ces/departments/ece/) at [Clemson University](http://www.clemson.edu/) in 2015 and my B.Engr. degree in Telecommunication Engineering from [Xidian University](http://www.xidian.edu.cn/) in China in 2009.
+I received my Ph.D. degree in [The Holcombe Department of Electrical and Computer Engineering](http://www.clemson.edu/ces/departments/ece/) at [Clemson University](http://www.clemson.edu/) in 2015 and my B.Engr. degree in Telecommunication Engineering from [Xidian University](http://www.xidian.edu.cn/) in China in 2009.
 
 Research interests
 ======
