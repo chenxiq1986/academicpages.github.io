@@ -89,11 +89,11 @@ analytics:
 author:
   name             : "Chenxi Qiu 邱晨曦"
   avatar           : "QiuChenxi.JPG"
-  bio              : "Assistant Professor Department of Computer Science"
+  bio              : "Assistant Professor, Department of Computer Science"
   location         : "328-I Robinson, Glassboro, NJ 08028"
   employer         : "Rowan University"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=Lj9jGZ8AAAAJ"
-  email            :
+  email            : "qiu(at)rowan(dot)edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
