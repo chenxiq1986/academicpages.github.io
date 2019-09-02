@@ -15,9 +15,9 @@ Conference papers
 
 [**CIKM 2019**] **C. Qiu**, A. C. Squicciarini and S. M. Rajtmajer, Rating Mechanisms for Sustainability of Crowdsourcing Platforms, in Proc. of The 28th ACM International Conference on Information and Knowledge Management, 2019 [**acceptance rate: 19.4%**].
 
-[**ICDCS 2019**] **C. Qiu** and A. C. Squicciarini, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, in Proc. of The IEEE International Conference on Distributed Computing Systems, 2019 [**acceptance rate: 19.6%**].
+[**ICDCS 2019**] **C. Qiu** and A. C. Squicciarini, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, in Proc. of The 39th IEEE International Conference on Distributed Computing Systems, 2019 [**acceptance rate: 19.6%**].
 
-[**AAMAS 2019**] **C. Qiu**, A. C. Squicciarini, and B. Hanrahan, [Incentivizing Distributive Fairness for Crowdsourcing Workers](https://dl.acm.org/citation.cfm?id=3331720), in Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2019.
+[**AAMAS 2019**] **C. Qiu**, A. C. Squicciarini, and B. Hanrahan, [Incentivizing Distributive Fairness for Crowdsourcing Workers](https://dl.acm.org/citation.cfm?id=3331720), in Proc. of The 18th International Conference on Autonomous Agents and Multiagent Systems, 2019.
 
 **2018**
 
