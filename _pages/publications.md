@@ -13,7 +13,7 @@ Conference papers
 
 **C. Qiu** and A. C. Squicciarini, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, in Proc. of The IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2019 [**acceptance rate: 19.6%**].
 
-**C. Qiu**, A. C. Squicciarini, and B. Hanrahan, Incentivizing Distributive Fairness for Crowdsourcing Workers, in Proc. of The International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) 2019.
+**C. Qiu**, A. C. Squicciarini, and B. Hanrahan, [Incentivizing Distributive Fairness for Crowdsourcing Workers](https://dl.acm.org/citation.cfm?id=3331720), in Proc. of The International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) 2019.
 
 **2018**
 
