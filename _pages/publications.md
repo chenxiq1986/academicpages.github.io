@@ -1,8 +1,11 @@
 ---
-title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=Lj9jGZ8AAAAJ))"
+layout: archive
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=Lj9jGZ8AAAAJ&hl=zh-CN)
 
 Conference papers
 ---
