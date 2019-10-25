@@ -97,7 +97,3 @@ Journal papers
 
 
 [**<font color="red">TPDS 2013</font>**] H. Shen, Z. Li, L. Yu and **C. Qiu**, [Efficient Data Collection for Large-Scale Mobile Monitoring Applications](https://ieeexplore.ieee.org/document/6506073), IEEE Transactions on Parallel and Distributed Systems, Vol. 25, no. 6, pp. 1424-1436, 2014.
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md.md" >}}).
-{{% /alert %}}
