@@ -27,6 +27,11 @@ Conference papers
 
 [**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, C. Griffin, and P. Umar, [Combating Behavioral Deviance via User Behavior Control](https://dl.acm.org/citation.cfm?id=3237383.3237419), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
 
+
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
+
 [**<font color="red">UbiComp 2018</font>**] L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. Xu, [Employing Opportunistic Charging for Electric Taxicabs to Reduce Idle Time](https://dl.acm.org/citation.cfm?id=3191779), Proc. of The ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2018.
 
 **2017**
