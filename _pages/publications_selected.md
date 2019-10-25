@@ -7,10 +7,6 @@ author_profile: true
 
 **You can also find my articles on [my Google Scholar Profile](https://scholar.google.com/citations?user=Lj9jGZ8AAAAJ&hl=zh-CN)**
 
-{{% alert note %}}
-% Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
-
 Conference papers
 ---
 
