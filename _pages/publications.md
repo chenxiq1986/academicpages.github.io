@@ -7,6 +7,10 @@ author_profile: true
 
 **You can also find my articles on [my Google Scholar Profile](https://scholar.google.com/citations?user=Lj9jGZ8AAAAJ&hl=zh-CN)**
 
+{{% alert note %}}
+% Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
+
 Conference papers
 ---
 
@@ -25,11 +29,6 @@ Conference papers
 [**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, D. Khare, B. Carminati, and J. Caverlee, [CrowdEval: A Cost-Efficient Strategy to Evaluate Crowdsourced Workers' Reliability](https://dl.acm.org/citation.cfm?id=3237383.3237922), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
 
 [**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, C. Griffin, and P. Umar, [Combating Behavioral Deviance via User Behavior Control](https://dl.acm.org/citation.cfm?id=3237383.3237419), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
-
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
 
 [**<font color="red">UbiComp 2018</font>**] L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. Xu, [Employing Opportunistic Charging for Electric Taxicabs to Reduce Idle Time](https://dl.acm.org/citation.cfm?id=3191779), Proc. of The ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2018.
 
