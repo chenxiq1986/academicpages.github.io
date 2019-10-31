@@ -85,15 +85,15 @@ Journal papers
 
 [**<font color="red">TMC 2017</font>**] **C. Qiu**, H. Shen, and K. Chen, [An Energy-Efficient and Distributed Cooperation Mechanism for k-Coverage Hole Detection and Healing in WSNs](https://ieeexplore.ieee.org/document/7366919), IEEE transactions on Mobile Computing, Vol. 17, no. 6, pp. 1247-1259, 2017.
 
-[**<font color="red">TITS 2016</font>**] C. Dey, L. Yan, X. Wang, Y. Wang, H. Shen, M. Chowdhury, L. Yu, **C. Qiu**, and V. Soundararaj, [A Review of Communication, Driver Characteristics and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)](https://ieeexplore.ieee.org/document/7314936), IEEE transactions on Intelligent Transportation Systems, Vol. 17, no. 2, pp. 491–509, 2016.
+[TITS 2016] C. Dey, L. Yan, X. Wang, Y. Wang, H. Shen, M. Chowdhury, L. Yu, **C. Qiu**, and V. Soundararaj, [A Review of Communication, Driver Characteristics and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)](https://ieeexplore.ieee.org/document/7314936), IEEE transactions on Intelligent Transportation Systems, Vol. 17, no. 2, pp. 491–509, 2016.
 
 [**<font color="red">TC 2015</font>**] **C. Qiu**, L. Yu, S. Soltani, [Low-Latency Multi-flow Cooperative Broadcast in Fading Wireless Networks](https://ieeexplore.ieee.org/document/7155513), IEEE Transactions on Computers, Vol. 65, no. 6, pp. 1802 - 1815, 2016.
 
 [**<font color="red">ToN 2014</font>**] **C. Qiu**, H. Shen, S. Soltani, K. Sapra, H. Jiang and J. Hallstrom, [CEDAR: A Low-latency and Distributed Strategy for Packet Recovery in Wireless Network](https://ieeexplore.ieee.org/document/6862930), IEEE/ACM Transactions on Networking, Vol. 23, no. 5, pp. 1514-1527, 2015.
 
-[**<font color="red">TMC 2014</font>**] H. Shen, Z. Li, **C. Qiu**, [A Distributed Three-hop Routing Protocol to Increase the Capacity of Hybrid Wireless Networks](https://ieeexplore.ieee.org/document/7004828), IEEE Transactions on Mobile Computing, Vol. 14, no. 10, pp. 1975-1991, 2015.
+[TMC 2014] H. Shen, Z. Li, **C. Qiu**, [A Distributed Three-hop Routing Protocol to Increase the Capacity of Hybrid Wireless Networks](https://ieeexplore.ieee.org/document/7004828), IEEE Transactions on Mobile Computing, Vol. 14, no. 10, pp. 1975-1991, 2015.
 
 [**<font color="red">TPDS 2013</font>**] **C. Qiu** and H. Shen, [A Delaunay-based Coordinate-free Mechanism for Full Coverage in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/6515119), IEEE Transactions on Parallel and Distributed Systems, Vol. 25, no. 4, pp. 828-839, 2014.
 
 
-[**<font color="red">TPDS 2013</font>**] H. Shen, Z. Li, L. Yu and **C. Qiu**, [Efficient Data Collection for Large-Scale Mobile Monitoring Applications](https://ieeexplore.ieee.org/document/6506073), IEEE Transactions on Parallel and Distributed Systems, Vol. 25, no. 6, pp. 1424-1436, 2014.
+[TPDS 2013] H. Shen, Z. Li, L. Yu and **C. Qiu**, [Efficient Data Collection for Large-Scale Mobile Monitoring Applications](https://ieeexplore.ieee.org/document/6506073), IEEE Transactions on Parallel and Distributed Systems, Vol. 25, no. 6, pp. 1424-1436, 2014.
