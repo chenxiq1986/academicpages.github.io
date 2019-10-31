@@ -22,7 +22,7 @@ Conference papers
 
 **2018**
 
-[**<font color="red">MASS 2018</font>**] **C. Qiu** and H. Shen, Cloud-based Collision-Aware Energy-Minimization Vehicle Velocity Optimization, Proc. of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems, 2018.
+[MASS 2018] **C. Qiu** and H. Shen, Cloud-based Collision-Aware Energy-Minimization Vehicle Velocity Optimization, Proc. of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems, 2018.
 
 [**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, D. Khare, B. Carminati, and J. Caverlee, [CrowdEval: A Cost-Efficient Strategy to Evaluate Crowdsourced Workers' Reliability](https://dl.acm.org/citation.cfm?id=3237383.3237922), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
 
