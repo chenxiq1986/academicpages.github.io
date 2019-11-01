@@ -20,7 +20,7 @@ Conference papers
 
 [**<font color="red">AAMAS 2019</font>**] **C. Qiu**, A. C. Squicciarini, and B. Hanrahan, [Incentivizing Distributive Fairness for Crowdsourcing Workers](https://dl.acm.org/citation.cfm?id=3331720), Proc. of The 18th International Conference on Autonomous Agents and Multiagent Systems, 2019.
 
-**2018**
+**2019**
 
 [MASS 2018] **C. Qiu** and H. Shen, Cloud-based Collision-Aware Energy-Minimization Vehicle Velocity Optimization, Proc. of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems, 2018.
 
