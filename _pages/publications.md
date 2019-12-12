@@ -100,4 +100,4 @@ Journal papers
 
 Technical reports
 ---
-**C. Qiu**, A. C. Squicciarini, and C. Pang, [Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing](https://ieeexplore.ieee.org/document/6506073)
+**C. Qiu**, A. C. Squicciarini, and C. Pang, [Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing](https://github.com/chenxiq1986/chenxiq1986.github.io/blob/master/files/locationprivacy_techreport.pdf)
