@@ -97,7 +97,3 @@ Journal papers
 
 
 [TPDS 2013] H. Shen, Z. Li, L. Yu and **C. Qiu**, [Efficient Data Collection for Large-Scale Mobile Monitoring Applications](https://ieeexplore.ieee.org/document/6506073), IEEE Transactions on Parallel and Distributed Systems, Vol. 25, no. 6, pp. 1424-1436, 2014.
-
-Technical reports
----
-**C. Qiu**, A. C. Squicciarini, and C. Pang, [Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing](https://www.dropbox.com/s/czhatj72wzpqrbc/locationprivacy_techreport.pdf?dl=0)
