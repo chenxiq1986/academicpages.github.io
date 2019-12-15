@@ -26,7 +26,7 @@ The IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGr
 
 The IEEE International Conference on Fog and Edge Computing (ICFEC) 2019, 2020
 
-The IEEE Wireless Communications and Networking Conference 2020
+The IEEE Wireless Communications and Networking Conference (WCNC) 2020
 
 
 Journal Reviewr
