@@ -16,13 +16,17 @@ Conference Organization
 ---
 Poster/Demo co-chair of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS) 2019
 
+Session chair of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS) 2019
+
 Session chair of The IEEE International Conference on Distributed Computing Systems (ICDCS) 2019
 
 Technical Programm Committee (TMC) Member
 ---
-The IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid) 2019
+The IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid) 2019, 2020
 
-The IEEE International Conference on Fog and Edge Computing (ICFEC)
+The IEEE International Conference on Fog and Edge Computing (ICFEC) 2019, 2020
+
+The IEEE Wireless Communications and Networking Conference 2020
 
 
 Journal Reviewr
