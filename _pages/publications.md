@@ -12,6 +12,10 @@ author_profile: true
 Conference papers
 ---
 
+**2020**
+
+[**<font color="red">IPSN 2020</font>**] A. Sarker, **C. Qiu**, H. Shen, H. Uehara, and K. Zheng, Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs, Proc. of The 19th ACM/IEEE Conference on Information Processing in Sensor Networks, 2020.
+
 **2019**
 
 [**<font color="red">CIKM 2019</font>**] **C. Qiu**, A. C. Squicciarini and S. M. Rajtmajer, Rating Mechanisms for Sustainability of Crowdsourcing Platforms, Proc. of The 28th ACM International Conference on Information and Knowledge Management, 2019 [**acceptance rate: 19.4%**].
