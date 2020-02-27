@@ -18,33 +18,33 @@ Conference papers
 
 **2019**
 
-[**<font color="red">CIKM 2019</font>**] **C. Qiu**, A. C. Squicciarini and S. M. Rajtmajer, Rating Mechanisms for Sustainability of Crowdsourcing Platforms, Proc. of The 28th ACM International Conference on Information and Knowledge Management, 2019 [**acceptance rate: 19.4%**].
+[**C**] [**<font color="red">CIKM 2019</font>**] **C. Qiu**, A. C. Squicciarini and S. M. Rajtmajer, Rating Mechanisms for Sustainability of Crowdsourcing Platforms, Proc. of The 28th ACM International Conference on Information and Knowledge Management, 2019 [**acceptance rate: 19.4%**].
 
-[**<font color="red">ICDCS 2019</font>**] **C. Qiu** and A. C. Squicciarini, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, Proc. of The 39th IEEE International Conference on Distributed Computing Systems, 2019 [**acceptance rate: 19.6%**].
+[**C**] [**<font color="red">ICDCS 2019</font>**] **C. Qiu** and A. C. Squicciarini, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, Proc. of The 39th IEEE International Conference on Distributed Computing Systems, 2019 [**acceptance rate: 19.6%**].
 
-[**<font color="red">AAMAS 2019</font>**] **C. Qiu**, A. C. Squicciarini, and B. Hanrahan, [Incentivizing Distributive Fairness for Crowdsourcing Workers](https://dl.acm.org/citation.cfm?id=3331720), Proc. of The 18th International Conference on Autonomous Agents and Multiagent Systems, 2019.
+[**C**] [**<font color="red">AAMAS 2019</font>**] **C. Qiu**, A. C. Squicciarini, and B. Hanrahan, [Incentivizing Distributive Fairness for Crowdsourcing Workers](https://dl.acm.org/citation.cfm?id=3331720), Proc. of The 18th International Conference on Autonomous Agents and Multiagent Systems, 2019.
 
 **2018**
 
-[MASS 2018] **C. Qiu** and H. Shen, Cloud-based Collision-Aware Energy-Minimization Vehicle Velocity Optimization, Proc. of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems, 2018.
+[**C**] [MASS 2018] **C. Qiu** and H. Shen, Cloud-based Collision-Aware Energy-Minimization Vehicle Velocity Optimization, Proc. of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems, 2018.
 
-[**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, D. Khare, B. Carminati, and J. Caverlee, [CrowdEval: A Cost-Efficient Strategy to Evaluate Crowdsourced Workers' Reliability](https://dl.acm.org/citation.cfm?id=3237383.3237922), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
+[**C**] [**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, D. Khare, B. Carminati, and J. Caverlee, [CrowdEval: A Cost-Efficient Strategy to Evaluate Crowdsourced Workers' Reliability](https://dl.acm.org/citation.cfm?id=3237383.3237922), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
 
-[**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, C. Griffin, and P. Umar, [Combating Behavioral Deviance via User Behavior Control](https://dl.acm.org/citation.cfm?id=3237383.3237419), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
+[**C**] [**<font color="red">AAMAS 2018</font>**] **C. Qiu**, A. C. Squicciarini, C. Griffin, and P. Umar, [Combating Behavioral Deviance via User Behavior Control](https://dl.acm.org/citation.cfm?id=3237383.3237419), Proc. of The International Conference on Autonomous Agents and Multiagent Systems, 2018.
 
-[UbiComp 2018] L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. Xu, [Employing Opportunistic Charging for Electric Taxicabs to Reduce Idle Time](https://dl.acm.org/citation.cfm?id=3191779), Proc. of The ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2018.
+[**C**] [UbiComp 2018] L. Yan, H. Shen, Z. Li, A. Sarker, J. A. Stankovic, **C. Qiu**, J. Zhao, and C. Xu, [Employing Opportunistic Charging for Electric Taxicabs to Reduce Idle Time](https://dl.acm.org/citation.cfm?id=3191779), Proc. of The ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2018.
 
 **2017**
 
-[ICPP 2017] **C. Qiu**, and H. Shen, [Fading-Resistant Link Scheduling in Wireless Networks](https://ieeexplore.ieee.org/document/8025305), Proc. of The 46th IEEE International Conference on Parallel Processing, 2017.
+[**C**] [ICPP 2017] **C. Qiu**, and H. Shen, [Fading-Resistant Link Scheduling in Wireless Networks](https://ieeexplore.ieee.org/document/8025305), Proc. of The 46th IEEE International Conference on Parallel Processing, 2017.
 
-[SECON 2017] **C. Qiu**, A. Sarker, and H. Shen, [Power Distribution Scheduling for Electric Vehicles in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/7964923), Proc. of The 14th IEEE International Conference on Sensing, Communication and Networking, 2017.
+[**C**] [SECON 2017] **C. Qiu**, A. Sarker, and H. Shen, [Power Distribution Scheduling for Electric Vehicles in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/7964923), Proc. of The 14th IEEE International Conference on Sensing, Communication and Networking, 2017.
 
-[**<font color="red">ICDCS 2017</font>**] **C. Qiu**, A. C. Squicciarini, S. M. Rajtmajer, and J. Caverlee, [Dynamic Contract Design for Heterogenous Workers in Crowdsourcing for Quality Control](https://ieeexplore.ieee.org/document/7980057), Proc. of The 37th IEEE International Conference on Distributed Computing Systems, 2017 [Applications and Experiences Track].
+[**C**] [**<font color="red">ICDCS 2017</font>**] **C. Qiu**, A. C. Squicciarini, S. M. Rajtmajer, and J. Caverlee, [Dynamic Contract Design for Heterogenous Workers in Crowdsourcing for Quality Control](https://ieeexplore.ieee.org/document/7980057), Proc. of The 37th IEEE International Conference on Distributed Computing Systems, 2017 [Applications and Experiences Track].
 
-[IoTDI 2017] A. Sarker, **C. Qiu**, and H. Shen, [Quick and Autonomous Platoon Maintenance in Vehicle Dynamics For Distributed Vehicle Platoon Networks](https://ieeexplore.ieee.org/document/7946877), Proc. of The 2nd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, 2017 [short paper].
+[**C**] [IoTDI 2017] A. Sarker, **C. Qiu**, and H. Shen, [Quick and Autonomous Platoon Maintenance in Vehicle Dynamics For Distributed Vehicle Platoon Networks](https://ieeexplore.ieee.org/document/7946877), Proc. of The 2nd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, 2017 [short paper].
 
-[INFOCOM 2017] L. Yan, H. Shen, J. Zhao, C. Xu, F. Luo, and **C. Qiu**, [CatCharger: Deploying Wireless Charging Lanes in a Metropolitan Road Network through Categorization and Clustering of Vehicle Traffic](https://ieeexplore.ieee.org/document/8057019), Proc. of The IEEE International Conference on Computer Communications, 2017.
+[**C**] [INFOCOM 2017] L. Yan, H. Shen, J. Zhao, C. Xu, F. Luo, and **C. Qiu**, [CatCharger: Deploying Wireless Charging Lanes in a Metropolitan Road Network through Categorization and Clustering of Vehicle Traffic](https://ieeexplore.ieee.org/document/8057019), Proc. of The IEEE International Conference on Computer Communications, 2017.
 
 **2016**
 
