@@ -41,7 +41,7 @@ author_profile: true
 
 **2017**
 
-[C] [ICPP 2017] **C. Qiu**, and H. Shen, [Fading-Resistant Link Scheduling in Wireless Networks](https://ieeexplore.ieee.org/document/8025305), Proc. of The 46th IEEE International Conference on Parallel Processing, 2017.
+[C] [**<font color="red">ICPP 2017</font>**] **C. Qiu**, and H. Shen, [Fading-Resistant Link Scheduling in Wireless Networks](https://ieeexplore.ieee.org/document/8025305), Proc. of The 46th IEEE International Conference on Parallel Processing, 2017.
 
 [C] [SECON 2017] **C. Qiu**, A. Sarker, and H. Shen, [Power Distribution Scheduling for Electric Vehicles in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/7964923), Proc. of The 14th IEEE International Conference on Sensing, Communication and Networking, 2017.
 
@@ -61,9 +61,9 @@ author_profile: true
 
 [C] [MASS 2016] A. Sarker, **C. Qiu** and H. Shen, [A Decentralized Network with Fast and Lightweight Autonomous Channel Selection in Vehicle Platoons for Collision Avoidance](https://ieeexplore.ieee.org/document/7815036), Proc. of the The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems, 2016.
 
-[C] [ICPP 2016] A. Sarker, **C. Qiu**, H. Shen, A. Gily, J. Taibery, M. Chowdhuryz, J. Martinx, M. Devine and A. Rindos, [An Efficient Wireless Power Transfer System To Balance the State of Charge of Electric Vehicles](https://ieeexplore.ieee.org/document/7573833), Proc. of The 45th IEEE International Conference on Parallel Processing, 2016.
+[C] [**<font color="red">ICPP 2016</font>**] A. Sarker, **C. Qiu**, H. Shen, A. Gily, J. Taibery, M. Chowdhuryz, J. Martinx, M. Devine and A. Rindos, [An Efficient Wireless Power Transfer System To Balance the State of Charge of Electric Vehicles](https://ieeexplore.ieee.org/document/7573833), Proc. of The 45th IEEE International Conference on Parallel Processing, 2016.
 
-[C] [ICCCN 2016] **C. Qiu** and H. Shen, [Link Scheduling in Cooperative Communication with SINR-Based Interference](https://ieeexplore.ieee.org/document/7568540), Proc. of The 25th IEEE International Conference on Computer Communications and Networks, 2016.
+[C] [**<font color="red">ICCCN 2016</font>**] **C. Qiu** and H. Shen, [Link Scheduling in Cooperative Communication with SINR-Based Interference](https://ieeexplore.ieee.org/document/7568540), Proc. of The 25th IEEE International Conference on Computer Communications and Networks, 2016.
 
 [C] [**<font color="red">INFOCOM 2016</font>**] **C. Qiu**, H. Shen and L. Chen, [Probabilistic Demand Allocation for Cloud Service Brokerage](https://ieeexplore.ieee.org/abstract/document/7524611), Proc. of The IEEE International Conference on Computer Communications, 2016 [**acceptance rate: 18.25%**].
 
@@ -82,7 +82,7 @@ author_profile: true
 
 [J] [TMC 2014] H. Shen, Z. Li, **C. Qiu**, [A Distributed Three-hop Routing Protocol to Increase the Capacity of Hybrid Wireless Networks](https://ieeexplore.ieee.org/document/7004828), IEEE Transactions on Mobile Computing, Vol. 14, no. 10, pp. 1975-1991, 2015.
 
-[C] [ICPP 2014] **C. Qiu**, H. Shen and L. Yu, Energy-Efficient and Delay-Constrained Broadcast in Time-Varying Energy-Demand Graphs, Proc. of The 43rd IEEE International Conference on Parallel Processing, 2014.
+[C] [**<font color="red">ICPP 2014</font>**] **C. Qiu**, H. Shen and L. Yu, Energy-Efficient and Delay-Constrained Broadcast in Time-Varying Energy-Demand Graphs, Proc. of The 43rd IEEE International Conference on Parallel Processing, 2014.
 
 [C] [**<font color="red">INFOCOM 2014</font>**] **C. Qiu**, H. Shen and L. Yu, [Energy-Efficient Cooperative Broadcast in Fading Wireless Networks](https://ieeexplore.ieee.org/abstract/document/7349574), Proc. of the IEEE International Conference on Computer Communications, 2014 [**acceptance rate: 19.4%**].
 
