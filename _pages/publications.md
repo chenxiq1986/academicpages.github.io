@@ -94,4 +94,4 @@ author_profile: true
 
 [C] [**<font color="red">INFOCOM 2013</font>**] **C. Qiu**, L. Yu, H. Shen and S. Soltani, [Low-Latency Multi-fl ow Broadcasts in Fading Wireless Networks](Low-Latency Multi-fl ow Broadcasts in Fading Wireless Networks), Proc. of The IEEE International Conference on Computer Communications, 2013 [short paper].
 
-[C] [ICPP 2012] **C. Qiu** and H. Shen, [A Delaunay-based Location-free Mechanism for Full Coverage in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/6337611), Proc. of The 41st IEEE International Conference on Parallel Processing, 2012.
+[C] [**<font color="red">ICPP 2012</font>**] **C. Qiu** and H. Shen, [A Delaunay-based Location-free Mechanism for Full Coverage in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/6337611), Proc. of The 41st IEEE International Conference on Parallel Processing, 2012.
