@@ -10,7 +10,7 @@ author_profile: true
 
 **2020**
 
-[J] [**<font color="red">ToN 2020</font>**] A. Sarker, **C. Qiu**, and H. Shen, Connectivity Maintenance for Next-Generation Decentralized Vehicle Platoon Networks, IEEE/ACM Transactions on Networking, accepted in March, 2020.
+[J] [**<font color="red">ToN 2020</font>**] A. Sarker, **C. Qiu**, and H. Shen, Connectivity Maintenance for Next-Generation Decentralized Vehicle Platoon Networks, IEEE/ACM Transactions on Networking, accepted on March 5, 2020.
 
 [C] [**<font color="red">IPSN 2020</font>**] A. Sarker, **C. Qiu**, H. Shen, H. Uehara, and K. Zheng, Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs, Proc. of The 19th ACM/IEEE Conference on Information Processing in Sensor Networks, 2020.
 
