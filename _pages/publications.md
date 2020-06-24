@@ -98,6 +98,7 @@ author_profile: true
 [C] [**<font color="red">ICPP 2012</font>**] **C. Qiu** and H. Shen, [A Delaunay-based Location-free Mechanism for Full Coverage in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/6337611), Proc. of The 41st IEEE International Conference on Parallel Processing, 2012.
 
 **Technical report**
+
 **C. Qiu**, L. Yan, C. Pang, A. C. Squicciarini, J. Zhao, and C. Xu, [RoadAdaptor: An Adaptive Obfuscation Strategy for Vehicle
 Trajectory Privacy Against Spatial Correlation Aware Attacks](http://chenxiq1986.github.io/files/LocationPrivacy-tech2020.pdf), technical report, 2020.
 
