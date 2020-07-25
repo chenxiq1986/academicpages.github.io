@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /services/
 title: "Services"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /services.html
 ---
 Professional Memberships
 ---
