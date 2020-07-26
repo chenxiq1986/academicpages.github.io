@@ -24,5 +24,5 @@ Honorable Mention of Interdisciplinary Contest in Modeling (ICM), 2008
 
 ## Sponsor
 
-![rowan](rowanlogo.png | width=100)
+![rowan](rowanlogo.png){:height="50%" width="50%"}
 
