@@ -23,6 +23,6 @@ Honorable Mention of Interdisciplinary Contest in Modeling (ICM), 2008
 ## Grant
 
 ## Sponsor
-
-![rowan](rowanlogo.png){:height="25%" width="25%"}
+![Protect Our Power](protectpowerlogo.png){:height="20%" width="20%"}
+![Rowan](rowanlogo.png){:height="20%" width="20%"}
 
