@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "Services"
+title: "Service"
 author_profile: true
 ---
 Professional Memberships
