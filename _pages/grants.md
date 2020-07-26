@@ -24,5 +24,5 @@ Honorable Mention of Interdisciplinary Contest in Modeling (ICM), 2008
 
 ## Sponsor
 ![Protect Our Power](protectpowerlogo.png){:height="20%" width="20%"}
-![Rowan](rowanlogo.png){:height="20%" width="20%"}
+![Rowan](rowanlogo.png){:height="15%" width="15%"}
 
