@@ -22,7 +22,7 @@ Honorable Mention of Interdisciplinary Contest in Modeling (ICM), 2008
 
 ## Grant
 
-PI, "Power Grid SCADA System Security Solution Evaluation", Protect Our Power, 08/01/2020 - 01/31/2021
+Co-PI, "Power Grid SCADA System Security Solution Evaluation", Protect Our Power, 08/01/2020 - 01/31/2021
 
 ## Sponsor
 ![Protect Our Power](protectpowerlogo.png){:height="20%" width="20%"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
