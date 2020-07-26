@@ -19,6 +19,10 @@ My research interests span the areas of **Data Privacy**, **The Internet of Thin
 News
 ======
 
+**[Mar 2020]** Our paper "Connectivity Maintenance for Next-Generation Decentralized Vehicle Platoon Networks" has been accepted by IEEE/ACM Transactions on Networking (**ToN**)!
+
+**[Feb 2020]** Our paper "Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs" has been accepted by The ACM/IEEE Conference on Information Processing in Sensor Networks (**IPSN**) 2020!
+
 **[Aug 2019]** Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" has been accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2019!
 
 **[Apr 2019]** Our paper "Dynamic Demand Prediction and Allocation in Cloud Service Brokerage" has been accepted by IEEE Transactions on Cloud Computing (**TCC**)!
