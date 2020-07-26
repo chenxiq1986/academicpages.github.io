@@ -8,6 +8,4 @@ author_profile: true
 Group members
 ---
 
-Ervin Centeno (undergraduate), (2018 Fall -)
-
-Ce Pang (undergraduate), (2019 Spring -)
+Ce Pang (undergraduate), (2019 Spring - )
