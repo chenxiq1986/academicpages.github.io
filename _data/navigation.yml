@@ -6,6 +6,9 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "People"
+    url: /people/  
+    
   - title: "Grant/Award"
     url: /grants/
     
