@@ -22,6 +22,8 @@ Honorable Mention of Interdisciplinary Contest in Modeling (ICM), 2008
 
 ## Grant
 
+Protect Our Power, "Power Grid SCADA System Security Solution Evaluation", PI: Jie Li, co-PI, **Chenxi Qiu ($12,500 sharing)**, $25,000, 08/01/2020 -- 01/31/2021
+
 ## Sponsor
 ![Protect Our Power](protectpowerlogo.png){:height="20%" width="20%"}
 ![Rowan](rowanlogo.png){:height="15%" width="15%"}
