@@ -23,3 +23,8 @@ Top-Grade Scholarship in Graduate School, Xidian University, 2009
 Honorable Mention of Interdisciplinary Contest in Modeling (ICM), 2008
 
 **Grant**
+
+======
+**Sponsor**
+![Screenshot](screenshot.png)
+
