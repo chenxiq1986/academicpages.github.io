@@ -26,5 +26,6 @@ Honorable Mention of Interdisciplinary Contest in Modeling (ICM), 2008
 
 ======
 **Sponsor**
+
 ![Screenshot](screenshot.png)
 
