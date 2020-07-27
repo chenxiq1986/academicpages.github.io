@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Loction Privacy Protection of Vehicular Location based Services
-======
+------
 
 * Publications: 
   * A. Sarker, C. Qiu, H. Shen, H. Uehara, and K. Zheng, Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs, Proc. of The 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), 2020.
@@ -14,7 +14,7 @@ Loction Privacy Protection of Vehicular Location based Services
 
 
 Data Poisoning Detection and Quality Control in Crowdsourcing
-======
+------
 
 
 * Publications:
