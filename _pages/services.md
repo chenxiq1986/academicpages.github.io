@@ -19,7 +19,7 @@ Session chair of The IEEE International Conference on Mobile Ad-hoc and Sensor S
 
 Session chair of The IEEE International Conference on Distributed Computing Systems (ICDCS) 2019
 
-Technical Programm Committee (TMC) Member
+Technical Programm Committee (TPC) Member
 ---
 The IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid) 2019, 2020
 
