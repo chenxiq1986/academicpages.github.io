@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Loction Privacy Protection of Vehicular Location based Services
+Vehicle Loction Privacy Protection in Location-based Services
 ------
 
 * Publications: 
