@@ -9,8 +9,8 @@ Vehicle Loction Privacy Protection in Location-based Services
 ------
 
 * Publications: 
-  * A. Sarker, C. Qiu, H. Shen, H. Uehara, and K. Zheng, Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs, Proc. of The 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), 2020.
-  * C. Qiu and A. C. Squicciarini, [Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability](https://ieeexplore.ieee.org/abstract/document/8885076), Proc. of The 39th IEEE International Conference on Distributed Computing Systems (ICDCS), 2019.
+  * A. Sarker, C. Qiu, H. Shen, H. Uehara, and K. Zheng, Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs, in Proc. of The 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), 2020.
+  * C. Qiu and A. C. Squicciarini, [Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability](https://ieeexplore.ieee.org/abstract/document/8885076), in Proc. of The 39th IEEE International Conference on Distributed Computing Systems (ICDCS), 2019.
 
 
 Incentive Machanism Design in Human Computing Systems
