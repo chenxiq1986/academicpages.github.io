@@ -19,6 +19,8 @@ My research interests span the areas of **Data Privacy**, **The Internet of Thin
 News
 ======
 
+**[Aug 2020]** Our paper "Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing" has been accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2020!
+
 **[Mar 2020]** Our paper "Connectivity Maintenance for Next-Generation Decentralized Vehicle Platoon Networks" has been accepted by IEEE/ACM Transactions on Networking (**ToN**)!
 
 **[Feb 2020]** Our paper "Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs" has been accepted by The ACM/IEEE Conference on Information Processing in Sensor Networks (**IPSN**) 2020!
