@@ -104,3 +104,5 @@ author_profile: true
 **C. Qiu**, L. Yan, C. Pang, A. C. Squicciarini, J. Zhao, and C. Xu, [RoadAdaptor: An Adaptive Obfuscation Strategy for Vehicle
 Trajectory Privacy Against Spatial Correlation Aware Attacks](http://chenxiq1986.github.io/files/LocationPrivacy-tech2020.pdf), technical report, 2020.
 
+**C. Qiu**, A. C. Squicciarini, Z. Li, C. Pang, and L. Yan, [Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing](http://chenxiq1986.github.io/files/locationprivacy_techreport_CIKM.pdf), technical report, 2020.
+
