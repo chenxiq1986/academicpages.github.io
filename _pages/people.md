@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "People"
-permalink: /people/
+title: "Lab"
+permalink: /lab/
 author_profile: true
 ---
+
+**Group Members**
 
 Ce Pang (undergraduate), (2019 Spring - )
