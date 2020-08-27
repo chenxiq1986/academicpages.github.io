@@ -27,7 +27,7 @@ PI, "Collaborative Research: SaTC: CORE: Small: Privacy protection of Vehicles l
 Co-PI, "Power Grid SCADA System Security Solution Evaluation", Protect Our Power, 08/01/2020 - 01/31/2021, \$25,000 (Shared credit: \$12,500)
 
 ## Sponsor
-![NSF](nsf.png){:height="14%" width="14%"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![NSF](NSF_logo.png){:height="14%" width="14%"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Protect Our Power](protectpowerlogo.png){:height="20%" width="20%"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Rowan](rowanlogo.png){:height="14%" width="14%"}
 
