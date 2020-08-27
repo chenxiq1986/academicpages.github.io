@@ -19,7 +19,7 @@ My research interests span the areas of **Data Privacy**, **The Internet of Thin
 News
 ======
 
-**[Aug 2020]** Our SaTC project has been funded by NSF. **Many thanks to NSF!*
+**[Aug 2020]** Our SaTC project has been funded by NSF. **Many thanks to NSF!**
 
 **[Aug 2020]** Our paper "Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing" has been accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2020!
 
