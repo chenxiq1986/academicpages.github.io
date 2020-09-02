@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a tenure-track assistant professor in [The Department of Computer Science](https://academics.rowan.edu/csm/departments/cs/index.html) with joint appointment in [The Department of Electrical and Computer Engineering](https://academics.rowan.edu/engineering/programs/electricalcomputer/index.html) at [Rowan University](https://www.rowan.edu/home/). Before joining Rowan, I worked as a Postdoctoral Scholar in [The College of Information Sciences and Technology](https://ist.psu.edu/) at [Pennsylvania State University](http://www.psu.edu/) from January 2016 to August 2018.
+Dr. Chenxi Qiu is currently a tenure-track assistant professor in [The Department of Computer Science](https://academics.rowan.edu/csm/departments/cs/index.html) with joint appointment in [The Department of Electrical and Computer Engineering](https://academics.rowan.edu/engineering/programs/electricalcomputer/index.html) at [Rowan University](https://www.rowan.edu/home/). Before joining Rowan, he worked as a Postdoctoral Scholar in [The College of Information Sciences and Technology](https://ist.psu.edu/) at [Pennsylvania State University](http://www.psu.edu/) from January 2016 to August 2018.
 
-I received my Ph.D. degree in [The Holcombe Department of Electrical and Computer Engineering](http://www.clemson.edu/ces/departments/ece/) at [Clemson University](http://www.clemson.edu/) in 2015 and my B.Engr. degree in Telecommunication Engineering from [Xidian University](http://www.xidian.edu.cn/) in China in 2009.
+Dr. Chenxi Qiu received his Ph.D. degree in [The Holcombe Department of Electrical and Computer Engineering](http://www.clemson.edu/ces/departments/ece/) at [Clemson University](http://www.clemson.edu/) in 2015 and his B.Engr. degree in Telecommunication Engineering from [Xidian University](http://www.xidian.edu.cn/) in China in 2009.
 
 Research interests
 ======
-My research interests span the areas of **Data Privacy**, **The Internet of Things (IoT)** and **Crowdsourcing/Crowdsensing Systems**. My research results have been published in highly-competitive conferences and journals (e.g., INFOCOM, AAMAS, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)).
+Chenxi Qiu's research interests span the areas of **Data Privacy**, **The Internet of Things (IoT)** and **Crowdsourcing/Crowdsensing Systems**. His research results have been published in highly-competitive conferences and journals (e.g., INFOCOM, AAMAS, IPSN, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)).
+
+Dr. Qiu's curriculum vitae can be downloaded here.
 
 <font color="red">To prospective students: I am always looking for self-motivated students who are interested in the area of data privacy and IoT. If you are interested, please e-mail me with your CV and transcripts.</font>
 <br />
