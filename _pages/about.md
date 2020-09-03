@@ -16,7 +16,7 @@ Research interests
 ======
 Chenxi Qiu's research interests span the areas of **Data Privacy**, **The Internet of Things (IoT)** and **Crowdsourcing/Crowdsensing Systems**. His research results have been published in highly-competitive conferences and journals (e.g., INFOCOM, AAMAS, IPSN, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)).
 
-Dr. Qiu's curriculum vitae can be downloaded [here](http://chenxiq1986.github.io/files/CV.pdf).
+Dr. Qiu's curriculum vitae can be found [here](http://chenxiq1986.github.io/files/CV.pdf).
 
 <font color="red">To prospective students: I am always looking for self-motivated students who are interested in the area of data privacy and IoT. If you are interested, please e-mail me with your CV and transcripts.</font>
 <br />
