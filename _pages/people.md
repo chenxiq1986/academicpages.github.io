@@ -7,4 +7,4 @@ author_profile: true
 
 **Group Members**
 
-Ce Pang (undergraduate), (2019 Spring - 2020 Summer)
+Ce Pang (undergraduate) (2019 Spring - 2020 Summer)
