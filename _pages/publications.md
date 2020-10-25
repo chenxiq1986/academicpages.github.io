@@ -11,7 +11,7 @@ author_profile: true
 
 **2020**
 
-[C] [**<font color="red">CIKM 2020</font>**] **C. Qiu**, A. C. Squicciarini, Z. Li, C. Pang, and L. Yan, Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing, in Proc. of The 29th ACM International Conference on Information and Knowledge Management, 2020 [**acceptance rate: 21.0%**]. 
+[C] [**<font color="red">CIKM 2020</font>**] **C. Qiu**, A. C. Squicciarini, Z. Li, C. Pang, and L. Yan, [Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing](https://dl.acm.org/doi/abs/10.1145/3340531.3411863), in Proc. of The 29th ACM International Conference on Information and Knowledge Management, 2020 [**acceptance rate: 21.0%**]. 
 
 [J] [**<font color="red">ToN 2020</font>**] A. Sarker, **\*C. Qiu**, and H. Shen, [Connectivity Maintenance for Next-Generation Decentralized Vehicle Platoon Networks](https://ieeexplore.ieee.org/abstract/document/9086736), IEEE/ACM Transactions on Networking, accepted on March 5, 2020.
 
