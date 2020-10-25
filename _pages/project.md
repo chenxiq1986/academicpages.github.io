@@ -13,7 +13,7 @@ Location obfuscation, which allows mobile users to report obfuscated locations i
 
 ------
 The collaboration work on vehicle location privacy has been reported in [UVAToday](https://news.virginia.edu/content/your-data-collected-constantly-graduate-student-wants-protect-you).
-------
+
 * Selected Publications: 
   * C. Qiu, A. C. Squicciarini, Z. Li, C. Pang, and L. Yan, Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing, in Proc. of The 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020. 
   * A. Sarker, C. Qiu, H. Shen, H. Uehara, and K. Zheng, [Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs](https://ieeexplore.ieee.org/document/9111047), in Proc. of The 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), 2020.
