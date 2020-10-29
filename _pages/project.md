@@ -11,6 +11,7 @@ Location obfuscation, which allows mobile users to report obfuscated locations i
 
 ------
 * Selected Publications: 
+  * C. Qiu, A. C. Squicciarini, C. Pang, N. Wang, and B. Wu, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, IEEE/ACM Transactions on Mobile Computing (TMC), accepted on October 29, 2020.
   * C. Qiu, A. C. Squicciarini, Z. Li, C. Pang, and L. Yan, [Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing](https://dl.acm.org/doi/abs/10.1145/3340531.3411863), in Proc. of The 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020. 
   * A. Sarker, C. Qiu, H. Shen, H. Uehara, and K. Zheng, [Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs](https://ieeexplore.ieee.org/document/9111047), in Proc. of The 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN), 2020. **This work has been reported in [UVAToday](https://news.virginia.edu/content/your-data-collected-constantly-graduate-student-wants-protect-you).**
-  * C. Qiu and A. C. Squicciarini, [Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability](https://ieeexplore.ieee.org/abstract/document/8885076), in Proc. of The 39th IEEE International Conference on Distributed Computing Systems (ICDCS), 2019.
+  * C. Qiu and A. C. Squicciarini, [Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability](https://ieeexplore.ieee.org/abstract/document/8885076), in Proc. of The 39th IEEE International Conference on Distributed Computing Systems (ICDCS), 2019. 
