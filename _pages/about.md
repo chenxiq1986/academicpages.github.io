@@ -24,6 +24,8 @@ Dr. Qiu's curriculum vitae can be found [here](http://chenxiq1986.github.io/file
 News
 ======
 
+**[Oct 2020]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by IEEE/ACM Transactions on Mobile Computing (**TMC**)!
+
 **[Oct 2020]** Our collaboration work on vehicle location privacy has been reported in [UVAToday](https://news.virginia.edu/content/your-data-collected-constantly-graduate-student-wants-protect-you). Congratulations to Ankur! 
 
 **[Aug 2020]** Our project about vehicle location privacy "Privacy Protection of Vehicles Location in Spatial Crowdsourcing Under Realistic Adversarial Models" has been funded by **NSF** ([CNS2029881](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2029881&HistoricalAwards=false)). Many thanks to NSF!
