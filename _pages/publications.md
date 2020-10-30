@@ -11,7 +11,7 @@ author_profile: true
 
 **2020**
 
-[J] [**<font color="red">TMC 2020</font>**] **C. Qiu**, A. C. Squicciarini, C. Pang, N. Wang, and B. Wu, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, IEEE/ACM Transactions on Mobile Computing, accepted on October 29, 2020.
+[J] [**<font color="red">TMC 2020</font>**] **C. Qiu**, A. C. Squicciarini, C. Pang, N. Wang, and B. Wu, Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability, IEEE Transactions on Mobile Computing, accepted on October 29, 2020.
 
 [C] [**<font color="red">CIKM 2020</font>**] **C. Qiu**, A. C. Squicciarini, Z. Li, C. Pang, and L. Yan, [Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing](https://dl.acm.org/doi/abs/10.1145/3340531.3411863), in Proc. of The 29th ACM International Conference on Information and Knowledge Management, 2020 [**acceptance rate: 21.0%**]. 
 
