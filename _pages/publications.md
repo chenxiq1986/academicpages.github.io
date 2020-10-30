@@ -56,7 +56,7 @@ author_profile: true
 
 [C] [INFOCOM 2017] L. Yan, H. Shen, J. Zhao, C. Xu, F. Luo, and **C. Qiu**, [CatCharger: Deploying Wireless Charging Lanes in a Metropolitan Road Network through Categorization and Clustering of Vehicle Traffic](https://ieeexplore.ieee.org/document/8057019), in Proc. of The IEEE International Conference on Computer Communications, 2017.
 
-[J] [**<font color="red">TMC 2017</font>**] **C. Qiu**, H. Shen, and K. Chen, [An Energy-Efficient and Distributed Cooperation Mechanism for k-Coverage Hole Detection and Healing in WSNs](https://ieeexplore.ieee.org/document/7366919), IEEE transactions on Mobile Computing, Vol. 17, no. 6, pp. 1247-1259, 2017.
+[J] [**<font color="red">TMC 2017</font>**] **C. Qiu**, H. Shen, and K. Chen, [An Energy-Efficient and Distributed Cooperation Mechanism for k-Coverage Hole Detection and Healing in WSNs](https://ieeexplore.ieee.org/document/7366919), IEEE Transactions on Mobile Computing, Vol. 17, no. 6, pp. 1247-1259, 2017.
 
 **2016**
 
@@ -74,10 +74,10 @@ author_profile: true
 
 [J] [TITS 2016] C. Dey, L. Yan, X. Wang, Y. Wang, H. Shen, M. Chowdhury, L. Yu, **C. Qiu**, and V. Soundararaj, [A Review of Communication, Driver Characteristics and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)](https://ieeexplore.ieee.org/document/7314936), IEEE transactions on Intelligent Transportation Systems, Vol. 17, no. 2, pp. 491–509, 2016.
 
-[J] [**<font color="red">TC 2015</font>**] **C. Qiu**, L. Yu, S. Soltani, [Low-Latency Multi-flow Cooperative Broadcast in Fading Wireless Networks](https://ieeexplore.ieee.org/document/7155513), IEEE Transactions on Computers, Vol. 65, no. 6, pp. 1802 - 1815, 2016.
-
 
 **2015 and earlier**
+
+[J] [**<font color="red">TC 2015</font>**] **C. Qiu**, L. Yu, S. Soltani, [Low-Latency Multi-flow Cooperative Broadcast in Fading Wireless Networks](https://ieeexplore.ieee.org/document/7155513), IEEE Transactions on Computers, Vol. 65, no. 6, pp. 1802 - 1815, 2015.
 
 [C] [BigData 2015] **C. Qiu**, H. Shen and L. Chen, Towards Green Cloud Computing: Demand Allocation and Pricing Policies for Cloud Service Brokerage, in Proc. of The IEEE International Conference on Big Data, 2015 [**acceptance rate: 17%**].
 
