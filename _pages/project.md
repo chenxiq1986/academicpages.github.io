@@ -11,4 +11,5 @@ Location obfuscation, which allows mobile users to report obfuscated locations i
 
 ------
 Publications: [TMC 2020], [CIKM 2020], [IPSN 2020], [ICDCS 2019]
+
 *The IPSN paper has been reported in [UVAToday](https://news.virginia.edu/content/your-data-collected-constantly-graduate-student-wants-protect-you).*
