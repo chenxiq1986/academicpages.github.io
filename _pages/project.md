@@ -13,3 +13,11 @@ Location obfuscation, which allows mobile users to report obfuscated locations i
 Publications: [TMC 2020], [CIKM 2020], [IPSN 2020], [ICDCS 2019]
 
 *The IPSN paper has been reported by [UVAToday](https://news.virginia.edu/content/your-data-collected-constantly-graduate-student-wants-protect-you).*
+
+
+Data poisoning detection and control in crowdsourcing
+------
+Crowdsourcing is a sourcing model that leverages the collective intelligence of a large group of individuals from the Internet to solve problems. The success of many Crowdsourcing platforms is highly due to large number of available workers in the systems, which nevertheless brings several fundamental challenges: individual contributors often work remotely; maintain some degree of anonymity; are not thoroughly supervised, and work for relatively short-term rewards. Therefore, malicious contributors driven by a hidden agenda may purposely jeopardize the quality of crowdsourcing services by providing incorrect information, namely data poisoning attack. As such, thoughtful design of quality control in crowdsourcing is critically important. 
+
+------
+Publications: [CIKM 2019], [AAMAS 2019], [AAMAS 2018], [ICDCS 2017]
