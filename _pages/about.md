@@ -24,7 +24,7 @@ Dr. Qiu's curriculum vitae can be found [here](http://chenxiq1986.github.io/file
 News
 ======
 
-<!-- **[Oct 2020]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by IEEE Transactions on Mobile Computing (**TMC**)! -->
+**[Oct 2020]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by IEEE Transactions on Mobile Computing (**TMC**)!
 
 **[Oct 2020]** Our collaboration work on vehicle location privacy has been reported in [UVAToday](https://news.virginia.edu/content/your-data-collected-constantly-graduate-student-wants-protect-you). Congratulations to Ankur! 
 
