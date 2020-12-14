@@ -9,6 +9,8 @@ author_profile: true
 
 Service Award in IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), 2019
 
+George N. Saridis Best Transactions Paper Award in the IEEE Transactions on Intelligent Transportation Systems 2016
+
 Best Paper Award in IEEE CloudCom, 2016
 
 NSF Student Travel Grant, IEEE International Conference on Mobile Ad hoc and Sensor Systems
