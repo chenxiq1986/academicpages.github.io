@@ -16,6 +16,6 @@ author_profile: true
 
 <p>CS 07575 <b>Advanced TCP/IP Internet Protocols and Technologies</b>, 2019 Spring</p>
 
-<p>CS 06512 <b>Network Security</b>, 2020 Spring</p>
+[<p>CS 06512 <b>Network Security</b>, 2020 Spring</p>](https://github.com/chenxiq1986/chenxiq1986.github.io/blob/master/_pages/CS06512.md)
 
 
