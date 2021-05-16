@@ -7,7 +7,9 @@ author_profile: true
 
 ## Award
 
-Service Award in IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), 2019
+Outstanding Service Award in ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI), 2021
+
+Outstanding Service Award in IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), 2019
 
 George N. Saridis Best Transactions Paper Award in the IEEE Transactions on Intelligent Transportation Systems 2016
 
