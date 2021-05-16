@@ -11,6 +11,8 @@ ACM, Member
 
 Conference Organization
 ---
+Session chair of The ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI) 2021
+
 Web chair of The ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI) 2021
 
 Poster/Demo co-chair of The IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS) 2019
