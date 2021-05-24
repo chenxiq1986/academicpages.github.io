@@ -17,6 +17,8 @@ Publications:
 [ICDCS 2019](https://ieeexplore.ieee.org/document/8885076)
 
 *The IPSN paper has been reported by [UVAToday](https://news.virginia.edu/content/your-data-collected-constantly-graduate-student-wants-protect-you).*
+*This project has been reported by [Rowan Today](https://today.rowan.edu/news/2021/02/protecting-app-based-worker-privacy.html).*
+The vehicle trajectory code has been released [here](https://github.com/chenxiq1986/vehicle-traffic-flow-aware-attack). 
 
 
 Data poisoning detection and control in crowdsourcing
