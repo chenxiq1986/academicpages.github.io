@@ -20,7 +20,7 @@ Publications:
 
 *This project has been reported by [Rowan Today](https://today.rowan.edu/news/2021/02/protecting-app-based-worker-privacy.html).*
 
-The vehicle trajectory code has been released [here](https://github.com/chenxiq1986/vehicle-traffic-flow-aware-attack). 
+The MATLAB code of vehicle location tracking has been released [here](https://github.com/chenxiq1986/vehicle-traffic-flow-aware-attack). 
 
 
 Data poisoning detection and control in crowdsourcing
