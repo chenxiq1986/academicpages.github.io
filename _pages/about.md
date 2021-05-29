@@ -12,8 +12,7 @@ Dr. Chenxi Qiu is currently a tenure-track assistant professor in [The Departmen
 
 Dr. Qiu received his Ph.D. degree in [The Holcombe Department of Electrical and Computer Engineering](http://www.clemson.edu/ces/departments/ece/) at [Clemson University](http://www.clemson.edu/) in 2015 and his B.Engr. degree in Telecommunication Engineering from [Xidian University](http://www.xidian.edu.cn/) in China in 2009.
 
-<font color="red">Dr. Qiu will be joining the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at [University of North Texas (UNT)](https://www.unt.edu/) in Fall 2021.</font>
-<br />
+Dr. Qiu will be joining the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at [University of North Texas (UNT)](https://www.unt.edu/) in Fall 2021.
 
 Research interests
 ======
