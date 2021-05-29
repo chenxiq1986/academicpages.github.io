@@ -12,6 +12,9 @@ Dr. Chenxi Qiu is currently a tenure-track assistant professor in [The Departmen
 
 Dr. Chenxi Qiu received his Ph.D. degree in [The Holcombe Department of Electrical and Computer Engineering](http://www.clemson.edu/ces/departments/ece/) at [Clemson University](http://www.clemson.edu/) in 2015 and his B.Engr. degree in Telecommunication Engineering from [Xidian University](http://www.xidian.edu.cn/) in China in 2009.
 
+<font color="red">I will be joining the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at [University of North Texas (UNT)](https://www.unt.edu/) in Fall 2021.</font>
+<br />
+
 Research interests
 ======
 Chenxi Qiu's research interests span the areas of **Data Privacy**, **The Internet of Things (IoT)** and **Crowdsourcing/Crowdsensing Systems**. His research results have been published in highly-competitive conferences and journals (e.g., INFOCOM, AAMAS, IPSN, ICDCS, CIKM, Transactions on Networking (ToN), Transactions on Cloud Computing (TCC), Transactions on Mobile Computing (TMC), Transactions on Parallel and Distributed Systems (TPDS), and Transactions on Computers (TC)).
