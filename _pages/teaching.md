@@ -8,4 +8,4 @@ author_profile: true
 
 **Graduate level**
 
-<p><b>CSCE 5550 Introduction to Computer Security</b>, 2021 Fall</p>
+<p>CSCE 5550 Introduction to Computer Security, 2021 Fall</p>
