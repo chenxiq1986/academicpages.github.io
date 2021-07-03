@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Chenxi Qiu is currently a tenure-track assistant professor in [The Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at [University of North Texas (UNT)]. Before joining UNT, he worked as an assistant professor in the Department of Computer Science at Rowan University from 2018 to 2021, and worked as a Postdoctoral Scholar in The College of Information Sciences and Technology at Pennsylvania State University from 2016 to 2018.
+Dr. Chenxi Qiu is currently a tenure-track assistant professor in [The Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at [University of North Texas (UNT)](https://www.unt.edu/). Before joining UNT, he worked as an assistant professor in the Department of Computer Science at Rowan University from 2018 to 2021, and worked as a Postdoctoral Scholar in The College of Information Sciences and Technology at Pennsylvania State University from 2016 to 2018.
 
 
 Dr. Qiu received his Ph.D. degree in [The Holcombe Department of Electrical and Computer Engineering](http://www.clemson.edu/ces/departments/ece/) at [Clemson University](http://www.clemson.edu/) in 2015 and his B.Engr. degree in Telecommunication Engineering from [Xidian University](http://www.xidian.edu.cn/) in China in 2009.
@@ -24,6 +24,8 @@ Dr. Qiu's curriculum vitae can be found [here](http://chenxiq1986.github.io/file
 
 News
 ======
+
+**[July 2021]** 
 
 **[Feb 2021]** Our research work on vehicle location privacy has been reported in [Rowan Today](https://today.rowan.edu/news/2021/02/protecting-app-based-worker-privacy.html)!
 
