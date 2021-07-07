@@ -24,23 +24,24 @@ Dr. Qiu's curriculum vitae can be found [here](http://chenxiq1986.github.io/file
 
 News
 ======
+**[July 2021]** I started my new position as an assistant professor at University of North Texas!
 
-**[Feb 2021]** Our research work on vehicle location privacy has been reported in [Rowan Today](https://today.rowan.edu/news/2021/02/protecting-app-based-worker-privacy.html)!
+**[Feb 2021]** Our research work on vehicle location privacy was reported in [Rowan Today](https://today.rowan.edu/news/2021/02/protecting-app-based-worker-privacy.html)!
 
-**[Oct 2020]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by IEEE Transactions on Mobile Computing (**TMC**)!
+**[Oct 2020]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" was accepted by IEEE Transactions on Mobile Computing (**TMC**)!
 
-**[Aug 2020]** Our project about vehicle location privacy "Privacy Protection of Vehicles Location in Spatial Crowdsourcing Under Realistic Adversarial Models" has been funded by **NSF** ([CNS2029881](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2029881&HistoricalAwards=false)). Many thanks to NSF!
+**[Aug 2020]** Our project about vehicle location privacy "Privacy Protection of Vehicles Location in Spatial Crowdsourcing Under Realistic Adversarial Models" was funded by **NSF** ([CNS2029881](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2029881&HistoricalAwards=false)). Many thanks to NSF!
 
-**[Aug 2020]** Our paper "Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing" has been accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2020!
+**[Aug 2020]** Our paper "Time-Efficient Geo-Obfuscation to Protect Worker Location Privacy over Road Networks in Spatial Crowdsourcing" was accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2020!
 
-**[Mar 2020]** Our paper "Connectivity Maintenance for Next-Generation Decentralized Vehicle Platoon Networks" has been accepted by IEEE/ACM Transactions on Networking (**ToN**)!
+**[Mar 2020]** Our paper "Connectivity Maintenance for Next-Generation Decentralized Vehicle Platoon Networks" was accepted by IEEE/ACM Transactions on Networking (**ToN**)!
 
-**[Feb 2020]** Our paper "Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs" has been accepted by The ACM/IEEE Conference on Information Processing in Sensor Networks (**IPSN**) 2020!
+**[Feb 2020]** Our paper "Brake Data-Based Location Tracking in Usage-Based Automotive Insurance Programs" was accepted by The ACM/IEEE Conference on Information Processing in Sensor Networks (**IPSN**) 2020!
 
-**[Aug 2019]** Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" has been accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2019!
+**[Aug 2019]** Our paper "Rating Mechanisms for Sustainability of Crowdsourcing Platforms" was accepted by The ACM International Conference on Information and Knowledge Management (**CIKM**) 2019!
 
-**[Apr 2019]** Our paper "Dynamic Demand Prediction and Allocation in Cloud Service Brokerage" has been accepted by IEEE Transactions on Cloud Computing (**TCC**)!
+**[Apr 2019]** Our paper "Dynamic Demand Prediction and Allocation in Cloud Service Brokerage" was accepted by IEEE Transactions on Cloud Computing (**TCC**)!
 
-**[Mar 2019]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" has been accepted by The IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2019!
+**[Mar 2019]** Our paper "Location Privacy Protection in Vehicle-Based Spatial Crowdsourcing via Geo-Indistinguishability" was accepted by The IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2019!
 
-**[Jan 2019]** Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" has been accepted by The International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) 2019!
+**[Jan 2019]** Our paper "Incentivizing Distributive Fairness for Crowdsourcing Workers" was accepted by The International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) 2019!
